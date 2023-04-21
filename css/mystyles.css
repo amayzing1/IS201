@@ -1,0 +1,59 @@
+.common{
+    font-family: cursive;
+    text-align: center;
+
+}
+.header{
+    background-color: rgb(163, 197, 241);
+    font-size: 35px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer{
+    height: 25px;
+    background-color: rgb(163, 197, 241);
+    position: fixed;
+    bottom:0px ;
+    right:5px;
+    left: 5px;
+    padding-top: 15px;
+}
+#top{
+    text-decoration: underline;
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bigfont{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: rgb(38, 139, 221);
+}
+
+li{
+    font-size: 15px;
+}
+    
+p{
+    background-color: rgb(148, 148, 243);
+    font-weight: bold;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(213, 236, 247);
+}
